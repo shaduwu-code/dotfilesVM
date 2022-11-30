@@ -1,0 +1,11 @@
+configuration {
+	modi:				"drun,run,window";
+}
+
+//@theme "/usr/share/rofi/themes/Arc-Dark.rasi"
+//@theme "/usr/share/rofi/themes/lb.rasi"
+//@theme "/usr/share/rofi/themes/glue_pro_blue.rasi"
+//@theme "/usr/share/rofi/themes/lb.rasi"
+//@theme "/usr/share/rofi/themes/sidebar.rasi"
+//@theme "/usr/share/rofi/themes/solarized_alternate.rasi"
+@theme "/usr/share/rofi/themes/glue_pro_blue.rasi"
